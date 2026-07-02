@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Son Goku",
+    "anime": "Dragon Ball Z",
+    "role": "Protagonist",
+    "ability": "Kamehameha",
+    "status": "Alive"
+  },
+  {
+    "id": 2,
+    "name": "Naruto Uzumaki",
+    "anime": "Naruto Shippuden",
+    "role": "Protagonist",
+    "ability": "Rasengan",
+    "status": "Alive"
+  },
+  {
+    "id": 3,
+    "name": "Monkey D. Luffy",
+    "anime": "One Piece",
+    "role": "Protagonist",
+    "ability": "Gum-Gum Pistol",
+    "status": "Alive"
+  },
+  {
+    "id": 4,
+    "name": "Light Yagami",
+    "anime": "Death Note",
+    "role": "Antagonist",
+    "ability": "Death Note Notebook",
+    "status": "Deceased"
+  },
+  {
+    "id": 5,
+    "name": "Satoru Gojo",
+    "anime": "Jujutsu Kaisen",
+    "role": "Supporting",
+    "ability": "Limitless",
+    "status": "Deceased"
+  },
+  {
+    "id": 6,
+    "name": "Eren Yeager",
+    "anime": "Attack on Titan",
+    "role": "Protagonist",
+    "ability": "Attack Titan Shifting",
+    "status": "Deceased"
+  },
+  {
+    "id": 7,
+    "name": "Izuku Midoriya",
+    "anime": "My Hero Academia",
+    "role": "Protagonist",
+    "ability": "One For All",
+    "status": "Alive"
+  },
+  {
+    "id": 8,
+    "name": "Killua Zoldyck",
+    "anime": "Hunter x Hunter",
+    "role": "Supporting",
+    "ability": "Godspeed",
+    "status": "Alive"
+  },
+  {
+    "id": 9,
+    "name": "Tanjiro Kamado",
+    "anime": "Demon Slayer",
+    "role": "Protagonist",
+    "ability": "Sun Breathing",
+    "status": "Alive"
+  },
+  {
+    "id": 10,
+    "name": "Levi Ackerman",
+    "anime": "Attack on Titan",
+    "role": "Supporting",
+    "ability": "Vertical Maneuvering Equipment",
+    "status": "Alive"
+  }
+]
